@@ -1,1 +1,1 @@
-print("bienvenido, astronauta")
+print("bienvenido, honorable astronauta")
