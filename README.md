@@ -1,2 +1,2 @@
-# prueva
+# prueba
 repositorio de prueba
