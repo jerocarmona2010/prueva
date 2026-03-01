@@ -1,1 +1,2 @@
-print("bienvenido, honorable astronauta")
+print("Welcome, honorable time traveler")
+print("hello,world")
